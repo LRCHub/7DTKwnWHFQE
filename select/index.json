@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "BLACK SHOUT",
+  "base_artist": "Roselia",
+  "createdAt": "2025-12-29T12:56:40.172745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BLACK SHOUT",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/01_BLACK_SHOUT_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BLACK SHOUT",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/02_BLACK_SHOUT_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BLACK SHOUT - リマスターver.",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/03_BLACK_SHOUT_-_リマスターver._Roselia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BLACK SHOUT",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/04_BLACK_SHOUT_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "black shout",
+      "artist": "roselia",
+      "has_synced": true,
+      "path": "select/05_black_shout_roselia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "m2 black shout",
+      "artist": "roselia",
+      "has_synced": true,
+      "path": "select/06_m2_black_shout_roselia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BLACK SHOUT - Remasterd ver.",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/07_BLACK_SHOUT_-_Remasterd_ver._Roselia.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BLACK SHOUT (Remix Ver.)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/08_BLACK_SHOUT_(Remix_Ver.)_Roselia.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BLACK SHOUT (2018 リマスターver.)",
+      "artist": "Roselia",
+      "has_synced": true,
+      "path": "select/09_BLACK_SHOUT_(2018_リマスターver.)_Roselia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BLACK SHOUT",
+      "artist": "Roselia",
+      "has_synced": false,
+      "path": "select/pl_01_BLACK_SHOUT_Roselia.txt"
+    }
+  ]
+}
